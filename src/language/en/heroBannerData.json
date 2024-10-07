@@ -1,0 +1,13 @@
+
+{
+    "title": "👋 I'm Fabian Gonzalez",
+    "subtitle": "Software Engineer specialized in AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Passionate about technology and web development 🤓",
+    "buttons": [
+        { "text": "Schedule a Meeting", "color": "blue" },
+        { "text": "Download my Resume", "color": "green" }
+    ],
+    "links": [
+        { "text": "Instagram", "url": "https://instagram.com" },
+        { "text": "TikTok", "url": "https://tiktok.com" }
+    ]
+}

@@ -1,0 +1,14 @@
+
+{
+    "title": "👋 Soy Fabian Gonzalez",
+    "subtitle": "Ingeniero de Software experto en AEM, HTML, CSS, JS, PHP, MySQL, ReactJS. Apasionado por la tecnología y el desarrollo web 🤓",
+    "buttons": [
+      { "text": "Agenda reunión laboral", "color": "blue" },
+      { "text": "Descarga mi currículum", "color": "green" }
+    ],
+    "links": [
+      { "text": "Instagram", "url": "https://instagram.com" },
+      { "text": "TikTok", "url": "https://tiktok.com" }
+    ]
+  }
+  
